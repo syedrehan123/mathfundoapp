@@ -1,0 +1,21 @@
+.tabnav{
+text-decoration: none;
+}
+.img{
+    text-align: center;
+}
+.number{
+    background-color:rgb(209, 29, 182);
+    border-style: dotted;
+    text-align: center;
+    
+}
+.jsx{
+    text-align: center;
+    border-style: dotted;
+    background-color: aqua;
+    font-style: italic;
+    tab-size: 50px;
+    
+
+}
